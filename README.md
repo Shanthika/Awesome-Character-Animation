@@ -8,11 +8,13 @@ Table of Contents
 
 - [Papers](#papers)
 	- [Cross Domain Motion Retargeting](#cross-domain-motion-retargeting)
-   	- [Text based Motion Editing](#text-based-motion-editing)
+   	- [Text based Motion Synthesis and Editing](#text-based-motion-synthesis-and-editing)
    	- [Motion Interpolation](#motion-interpolation)
    	- [Motion Synthesis](#motion-synthesis)
-   	- [Character-Scene Interaction](#character-scene-interaction)
    	- [Motion Decomposition](#motion-decomposition)
+   	- [Motion Stylization](#motion-stylization)
+   	- [Character-Scene Interaction](#character-scene-interaction)
+   	  
    	
 - [Datasets](#datasets)
 
@@ -25,7 +27,7 @@ Table of Contents
   SIGGRAPH Conference Papers ’24
 
 
-## Text based Motion Editing
+## Text based Motion Synthesis and Editing
 #### 2024
 - [Iterative Motion Editing with Natural Language](https://dl.acm.org/doi/pdf/10.1145/3641519.3657447) \
    Purvi Goel, Kuan-Chieh Wang, C. Karen Liu, and Kayvon Fatahalian \
@@ -33,6 +35,14 @@ Table of Contents
   
 - [LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model](https://dl.acm.org/doi/pdf/10.1145/3641519.3657422) \
   Haowen Sun, Ruikun Zheng, Haibin Huang, Chongyang Ma, Hui Huang, and Ruizhen Hu \
+  SIGGRAPH Conference Papers ’24
+
+- [Text-Guided Synthesis of Crowd Animation](https://dl.acm.org/doi/pdf/10.1145/3641519.3657516) \
+  Xuebo Ji, Zherong Pan, Xifeng Gao, and Jia Pan \
+  SIGGRAPH Conference Papers ’24
+
+- [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://dl.acm.org/doi/pdf/10.1145/3641519.3657492) \
+  Jordan Juravsky, Yunrong Guo, Sanja Fidler, and Xue Bin Peng \
   SIGGRAPH Conference Papers ’24
 
 
@@ -52,10 +62,22 @@ Table of Contents
   Zihan Zhang, Richard Liu, Kfir Aberman, and Rana Hanocka \
   SIGGRAPH Conference Papers ’24
 
+- [Bidirectional GaitNet: A Bidirectional Prediction Model of Human Gait and Anatomical Conditions](https://dl.acm.org/doi/pdf/10.1145/3588432.3591492) \
+  Jungnam Park, Moon Seok Park, Jehee Lee, and Jungdam Won \
+  SIGGRAPH Conference Papers ’24
+   
+
 
 ## Motion Decomposition
 - [LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model](https://dl.acm.org/doi/pdf/10.1145/3641519.3657422) \
   Haowen Sun, Ruikun Zheng, Haibin Huang, Chongyang Ma, Hui Huang, and Ruizhen Hu \
+  SIGGRAPH Conference Papers ’24
+
+
+## Motion Stylization
+#### 2024
+- [SMEAR: Stylized Motion Exaggeration with ARt-direction](https://dl.acm.org/doi/pdf/10.1145/3641519.3657457) \
+  Jean Basset, Pierre Bénard, and Pascal Barla \
   SIGGRAPH Conference Papers ’24
 
 ## Character-Scene Interaction
@@ -63,4 +85,6 @@ Table of Contents
 - [Physics-based Scene Layout Generation from Human Motion](https://dl.acm.org/doi/pdf/10.1145/3641519.3657517) \
    Jianan Li, Tao Huang, Qingxu Zhu and Tien-Tsin Wong \
    SIGGRAPH Conference Papers ’24
+
+  
 # Datasets
