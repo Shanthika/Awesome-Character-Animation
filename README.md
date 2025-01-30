@@ -56,6 +56,11 @@ Table of Contents
   Rui Chen∗, Mingyi Shi∗, Shaoli Huang, Ping Tan, Taku Komura, Xuelin Chen \
   SIGGRAPH Conference Papers ’24
 
+#### 2023
+- [RSMT: Real-time Stylized Motion Transition for Characters](https://dl.acm.org/doi/pdf/10.1145/3588432.3591514) \
+  Xiangjun Tang, Linjun Wu, He Wang, Bo Hu, Xu Gong, Yuchen Liao, Songnan Li, Qilong Kou, Xiaogang Jin \
+  SIGGRAPH Conference Papers ’23
+
 ## Motion Synthesis
 #### 2024
 - [TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis](https://dl.acm.org/doi/pdf/10.1145/3641519.3657515) \
@@ -85,6 +90,25 @@ Table of Contents
 - [Physics-based Scene Layout Generation from Human Motion](https://dl.acm.org/doi/pdf/10.1145/3641519.3657517) \
    Jianan Li, Tao Huang, Qingxu Zhu and Tien-Tsin Wong \
    SIGGRAPH Conference Papers ’24
+
+#### 2023
+- [Synthesizing Physical Character-Scene Interactions](https://dl.acm.org/doi/pdf/10.1145/3588432.3591525) \
+  Hassan, Guo, Wang, Black, Fidler, and Peng \
+   SIGGRAPH Conference Papers ’23
+
+- [PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors](https://dl.acm.org/doi/pdf/10.1145/3588432.3591487) \
+  Jinseok Bae, Jungdam Won, Donggeun Lim, Cheol-Hui Min, and Young Min Kim \
+  SIGGRAPH Conference Papers ’23
+
+- [Simulation and Retargeting of Complex Multi-Character Interactions](https://dl.acm.org/doi/pdf/10.1145/3588432.3591491) \
+  Yunbo Zhang, Deepak Gopinath, Yuting Ye, Jessica Hodgins, Greg Turk, and Jungdam Won \
+  SIGGRAPH Conference Papers ’23
+
+- [QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors](https://dl.acm.org/doi/pdf/10.1145/3588432.3591504) \
+  Sunmin Lee, Sebastian Starke, Yuting Ye, Jungdam Won, and Alexander Winkler
+  SIGGRAPH Conference Papers ’23
+  
+  
 
   
 # Datasets
