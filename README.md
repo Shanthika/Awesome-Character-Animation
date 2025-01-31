@@ -13,6 +13,7 @@ Table of Contents
    	- [Motion Synthesis](#motion-synthesis)
    	- [Motion Decomposition](#motion-decomposition)
    	- [Motion Stylization](#motion-stylization)
+   	- [Motion Editing](#motion-editing)
    	- [Character-Scene Interaction](#character-scene-interaction)
    	  
    	
@@ -93,6 +94,13 @@ Table of Contents
   Jean Basset, Pierre Bénard, and Pascal Barla \
   SIGGRAPH Conference Papers ’24
 
+## Motion Editing
+#### 2024
+- [Pose and Skeleton-aware Neural IK for Pose and Motion Editing](https://assets.studios.disneyresearch.com/app/uploads/2023/11/Pose-and-Skeleton-aware-Neural-IK-for-Pose-and-Motion-Editing-Paper.pdf) \
+  Dhruv Agrawal, Martin Guay, Jakob Buhmann, Dominik Borer, Robert W. Sumner \
+  SA Conference Papers ’23
+
+  
 ## Character-Scene Interaction
 #### 2024
 - [Physics-based Scene Layout Generation from Human Motion](https://dl.acm.org/doi/pdf/10.1145/3641519.3657517) \
