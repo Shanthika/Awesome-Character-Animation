@@ -56,6 +56,14 @@ Table of Contents
   Rui Chen∗, Mingyi Shi∗, Shaoli Huang, Ping Tan, Taku Komura, Xuelin Chen \
   SIGGRAPH Conference Papers ’24
 
+- [Factorized Motion Diffusion for Precise and Character-Agnostic Motion Inbetweening](https://assets.studios.disneyresearch.com/app/uploads/2024/10/Factorized-Motion-Diffusion-for-Precise-and-Character-Agnostic-Motion-Inbetweening-Paper.pdf) \
+  Justin Studer, Dhruv Agrawal, Dominik Borer, Seyedmorteza Sadat, Robert W. Sumner, Martin Guay, Jakob Buhmann \
+  MIG ’24
+
+- [SKEL-Betweener: a Neural Motion Rig for Interactive Motion Authoring](https://assets.studios.disneyresearch.com/app/uploads/2024/10/Skel-inbetweening-for-Intuitive-Neural-Motion-Authoring-paper.pdf) \
+  Dhruv Agrawal, Jakob Buhmann, Dominik Borer, Robert W. Sumner, Martin Guay \
+  ACM Trans. Graph. 2024
+
 #### 2023
 - [RSMT: Real-time Stylized Motion Transition for Characters](https://dl.acm.org/doi/pdf/10.1145/3588432.3591514) \
   Xiangjun Tang, Linjun Wu, He Wang, Bo Hu, Xu Gong, Yuchen Liao, Songnan Li, Qilong Kou, Xiaogang Jin \
