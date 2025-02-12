@@ -8,6 +8,7 @@ Table of Contents
 
 - [Papers](#papers)
 	- [Rig Free Motion Transfer](#rig-free-motion-transfer)
+   	- [Motion Transfer](#motion-transfer)
 	- [Cross Domain Motion Retargeting](#cross-domain-motion-retargeting)
    	- [Text based Motion Synthesis and Editing](#text-based-motion-synthesis-and-editing)
    	- [Motion Interpolation](#motion-interpolation)
@@ -68,7 +69,16 @@ Table of Contents
   Jiaxu Zhang, Shaoli Huang, Zhigang Tu, Xin Chen, Xiaohang Zhan, Gang Yu, Ying Shan \
   ICLR 2024
 
-
+## Motion Transfer
+#### 2024
+- [Semantics-aware Motion Retargeting with Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Semantics-aware_Motion_Retargeting_with_Vision-Language_Models_CVPR_2024_paper.pdf) \
+  Haodong Zhang, Zhike Chen, Haocheng Xu, Lei Hao, Xiaofei Wu, Songcen Xu, Zhensong Zhang, Yue Wang, Rong Xiong \
+  CVPR 2024
+#### 2023
+- [Skinned Motion Retargeting with Residual Perception of Motion Semantics & Geometry](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Skinned_Motion_Retargeting_With_Residual_Perception_of_Motion_Semantics__CVPR_2023_paper.pdf) \
+  Jiaxu Zhang, Junwu Weng, Di Kang, Fang Zhao, Shaoli Huang, Xuefei Zhe, Linchao Bao, Ying Shan, Jue Wang, Zhigang Tu \
+  CVPR 2023
+  
 ## Motion Interpolation
 #### 2024
 - [Flexible Motion In-betweening with Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3641519.3657414) \
