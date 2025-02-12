@@ -24,6 +24,11 @@ Table of Contents
 # Papers
 
 ## Rig Free Motion Transfer
+#### 2024
+- [Temporal Residual Jacobians for Rig-free Motion Transfer](#https://temporaljacobians.github.io/) \
+  Sanjeev Muralikrishnan, Niladri Shekhar Dutt, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra \
+  ECCV 2024
+  
 #### 2023		
 - [Zero-shot Pose Transfer for Unrigged Stylized 3D Characters](https://jiashunwang.github.io/ZPT/)\
   Jiashun Wang,  Xueting Li,  Sifei Liu,  Shalini De Mello,  Orazio Gallo,  Xiaolong Wang,  Jan Kautz \
