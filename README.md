@@ -25,7 +25,7 @@ Table of Contents
 
 ## Rig Free Motion Transfer
 #### 2024
-- [Temporal Residual Jacobians for Rig-free Motion Transfer](#https://temporaljacobians.github.io/) \
+- [Temporal Residual Jacobians for Rig-free Motion Transfer](https://temporaljacobians.github.io/) \
   Sanjeev Muralikrishnan, Niladri Shekhar Dutt, Siddhartha Chaudhuri, Noam Aigerman, Vladimir Kim, Matthew Fisher, Niloy Mitra \
   ECCV 2024
   
