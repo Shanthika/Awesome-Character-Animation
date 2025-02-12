@@ -7,6 +7,7 @@ Table of Contents
 =================
 
 - [Papers](#papers)
+	- [Rig Free Motion Transfer](#rig-free-motion-transfer)
 	- [Cross Domain Motion Retargeting](#cross-domain-motion-retargeting)
    	- [Text based Motion Synthesis and Editing](#text-based-motion-synthesis-and-editing)
    	- [Motion Interpolation](#motion-interpolation)
@@ -21,6 +22,18 @@ Table of Contents
 
 
 # Papers
+
+## Rig Free Motion Transfer
+#### 2023		
+- [Zero-shot Pose Transfer for Unrigged Stylized 3D Characters](https://jiashunwang.github.io/ZPT/)\
+  Jiashun Wang,  Xueting Li,  Sifei Liu,  Shalini De Mello,  Orazio Gallo,  Xiaolong Wang,  Jan Kautz \
+  CVPR 2023
+
+#### 2022
+- [Skeleton-free Pose Transfer for Stylized 3D Characters](https://zycliao.com/sfpt/) \
+  Zhouyingcheng Liao,  Jimei Yang,  Jun Saito,  Gerard Pons-Moll,  Yang Zhou \
+  ECCV 2022
+
 ## Cross Domain Motion Retargeting 
 #### 2024
 - [WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508) \
@@ -45,6 +58,10 @@ Table of Contents
 - [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://dl.acm.org/doi/pdf/10.1145/3641519.3657492) \
   Jordan Juravsky, Yunrong Guo, Sanja Fidler, and Xue Bin Peng \
   SIGGRAPH Conference Papers ’24
+
+- [TapMo: Shape-aware Motion Generation of Skeleton-free Characters](https://arxiv.org/pdf/2310.12678) \
+  Jiaxu Zhang, Shaoli Huang, Zhigang Tu, Xin Chen, Xiaohang Zhan, Gang Yu, Ying Shan \
+  ICLR 2024
 
 
 ## Motion Interpolation
