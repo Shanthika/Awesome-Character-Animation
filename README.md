@@ -8,9 +8,9 @@ Table of Contents
 
 - [Papers](#papers)
 	- [Rig Free Motion Transfer](#rig-free-motion-transfer)
-   	- [Motion Transfer](#motion-transfer)
 	- [Cross Domain Motion Retargeting](#cross-domain-motion-retargeting)
    	- [Text based Motion Synthesis and Editing](#text-based-motion-synthesis-and-editing)
+   	- [Motion Transfer](#motion-transfer)
    	- [Motion Interpolation](#motion-interpolation)
    	- [Motion Synthesis](#motion-synthesis)
    	- [Motion Decomposition](#motion-decomposition)
