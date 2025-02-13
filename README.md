@@ -161,7 +161,7 @@ Table of Contents
   
 # Datasets
 
-### 1. [DeformingThings4D dataset](https://github.com/rabbityl/DeformingThings4D?tab=readme-ov-file) \
+### 1. [DeformingThings4D dataset](https://github.com/rabbityl/DeformingThings4D?tab=readme-ov-file) 
 DeformingThings4D is a synthetic dataset containing 1,972 animation sequences spanning 31 categories of humanoids and animals.
   
 <img src="images/deformingthings4d.png" width="800">
