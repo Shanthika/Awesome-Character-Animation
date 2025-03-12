@@ -46,6 +46,10 @@ Table of Contents
   Peizhuo Li, Sebastian Starke, Yuting Ye, and Olga Sorkine-Hornung \
   SIGGRAPH Conference Papers ’24
 
+#### 2023
+- [Dance Style Transfer with Cross-modal Transformer](https://openaccess.thecvf.com/content/WACV2023/papers/Yin_Dance_Style_Transfer_With_Cross-Modal_Transformer_WACV_2023_paper.pdf) \
+  Wenjie Yin, Hang Yin, Kim Baraka, Danica Kragic, and Marten Bjorkman \
+  WACV 2023
 
 ## Text based Motion Synthesis and Editing
 #### 2024
