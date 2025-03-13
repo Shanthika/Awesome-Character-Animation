@@ -170,3 +170,9 @@ DeformingThings4D is a synthetic dataset containing 1,972 animation sequences sp
   
 <img src="images/deformingthings4d.png" width="800">
 
+
+
+### 2. [Mixamo](https://www.mixamo.com/#/?page=1&type=Character) 
+Provides multiple character meshes with Motion sequences.
+
+<img src="images/mixamo.png" width="800">
