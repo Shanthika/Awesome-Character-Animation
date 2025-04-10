@@ -176,3 +176,9 @@ DeformingThings4D is a synthetic dataset containing 1,972 animation sequences sp
 Provides multiple character meshes with Motion sequences.
 
 <img src="images/mixamo.png" width="800">
+
+
+### 3. [HumanML3D](https://github.com/EricGuo5513/HumanML3D) 
+Text-labeled human motion sequences.
+
+<img src="images/humanml3d.png" width="800">
