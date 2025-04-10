@@ -182,3 +182,9 @@ Provides multiple character meshes with Motion sequences.
 Text-labeled human motion sequences.
 
 <img src="images/humanml3d.png" width="800">
+
+
+### 3. [DigitalLife3D](https://sketchfab.com/DigitalLife3D/models) 
+Provide a collection of high-quality rigged meshes of wildlife animals.
+
+<img src="images/digitallife3d.png" width="800">
