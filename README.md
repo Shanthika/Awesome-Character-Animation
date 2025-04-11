@@ -192,8 +192,5 @@ Text-labeled human motion sequences.
 ### 5. [100STYLE](https://www.ianxmason.com/100style/)
 This is the 100STYLE dataset, it contains over 4 million frames of motion capture data for 100 different styles of locomotion.
 
-[!()](https://youtu.be/ZPj_7Ewe3eU)
+![video]([https://yourvideo.url](https://youtu.be/ZPj_7Ewe3eU))
 
-Text-labeled human motion sequences.
-
-<img src="images/humanml3d.png" width="800">
