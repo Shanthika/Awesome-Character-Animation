@@ -178,15 +178,22 @@ Provides multiple character meshes with Motion sequences.
 <img src="images/mixamo.png" width="800">
 
 
-### 3. [HumanML3D](https://github.com/EricGuo5513/HumanML3D) 
+### 3. [DigitalLife3D](https://sketchfab.com/DigitalLife3D/models) 
+Provide a collection of high-quality rigged meshes of wildlife animals.
+
+<img src="images/digitallife3d.png" width="800">
+
+### 4. [HumanML3D](https://github.com/EricGuo5513/HumanML3D) 
 Text-labeled human motion sequences.
 
 <img src="images/humanml3d.png" width="800">
 
 
-### 4. [DigitalLife3D](https://sketchfab.com/DigitalLife3D/models) 
-Provide a collection of high-quality rigged meshes of wildlife animals.
+### 5. [100STYLE](https://www.ianxmason.com/100style/)
+This is the 100STYLE dataset, it contains over 4 million frames of motion capture data for 100 different styles of locomotion.
 
-<img src="images/digitallife3d.png" width="800">
+[!()](https://youtu.be/ZPj_7Ewe3eU)
 
+Text-labeled human motion sequences.
 
+<img src="images/humanml3d.png" width="800">
