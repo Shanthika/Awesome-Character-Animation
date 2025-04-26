@@ -204,8 +204,8 @@ Table of Contents
   Sigal Raab*, Inbal Leibovitch*, Guy Tevet, Moab Arar, Amit H. Bermano, Daniel Cohen-Or \
   ICLR 2024
 
-  #### 2022
-  - [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/) \
+#### 2022
+- [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/) \
     Peizhuo Li, Kfir Aberman, Zihan Zhang, Rana Hanocka, Olga Sorkine-Hornung \
     SIGGRAPH 2022
 
