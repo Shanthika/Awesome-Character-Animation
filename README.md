@@ -223,6 +223,10 @@ Table of Contents
   Jean Basset, Pierre Bénard, and Pascal Barla \
   SIGGRAPH Conference Papers ’24
 
+- [Generative Human Motion Stylization in Latent Space](https://yxmu.foo/GenMoStyle/) \
+  Chuan Guo*, Yuxuan Mu*, Xinxin Zuo, Peng Dai, Youliang Yan, Juwei Lu, Li Cheng \
+  ICLR 2024
+
 ## Motion Editing
 #### 2024
 - [Pose and Skeleton-aware Neural IK for Pose and Motion Editing](https://assets.studios.disneyresearch.com/app/uploads/2023/11/Pose-and-Skeleton-aware-Neural-IK-for-Pose-and-Motion-Editing-Paper.pdf) \
