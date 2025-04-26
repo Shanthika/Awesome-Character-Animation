@@ -177,6 +177,11 @@ Table of Contents
   
 
 ## Motion Synthesis
+#### 2025
+- [AnyTop: Character Animation Diffusion with Any Topology](https://github.com/Anytop2025/Anytop?tab=readme-ov-file) \
+  Inbar Gat*,Sigal Raab*, Guy Tevet, Yuval Reshef, Amit H. Bermano, Daniel Cohen-Or \
+  ArXiv 2025
+  
 #### 2024
 - [TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis](https://dl.acm.org/doi/pdf/10.1145/3641519.3657515) \
   Zihan Zhang, Richard Liu, Kfir Aberman, and Rana Hanocka \
