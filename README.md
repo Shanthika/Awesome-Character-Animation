@@ -183,8 +183,11 @@ Table of Contents
 
 ## Motion Synthesis
 #### 2025
+- [Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control](https://diffusecloc.github.io/website/)\
+  Xiaoyu Huang, Takara Truong, Yunbo Zhang, Fangzhou Yu, Jean Pierre Sleiman, Jessica Hodgins, Koushil Sreenath, Farbod Farshidian \
+  SIGGRAPH, 2025
 - [AnyTop: Character Animation Diffusion with Any Topology](https://github.com/Anytop2025/Anytop?tab=readme-ov-file) \
-  Inbar Gat*,Sigal Raab*, Guy Tevet, Yuval Reshef, Amit H. Bermano, Daniel Cohen-Or \
+  Inbar Gat*, Sigal Raab*, Guy Tevet, Yuval Reshef, Amit H. Bermano, Daniel Cohen-Or \
   ArXiv 2025
   
 #### 2024
