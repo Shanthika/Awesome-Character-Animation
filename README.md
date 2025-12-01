@@ -29,7 +29,7 @@ Table of Contents
 #### 2025
 - [SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes](https://motionfields.github.io/) \
   Sanjeev Muralikrishnan, Niladri Shekhar Dutt1, Niloy Mitra \
-  ArXiv 2025
+  Siggraph Asia, 2025
   
 #### 2024
 - [Temporal Residual Jacobians for Rig-free Motion Transfer](https://temporaljacobians.github.io/) \
